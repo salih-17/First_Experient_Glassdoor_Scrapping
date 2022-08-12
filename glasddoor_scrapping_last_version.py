@@ -66,7 +66,7 @@ def get_jobs(keyword, num_jobs):
                     # When the number of jobs collected has reached the number we set. 
                     break
                 job_buttons[job].click()  
-                #time.sleep(5)
+                time.sleep(5)
                 try:
                     driver.find_element(By.XPATH,'//*[@id="JAModal"]/div/div[2]/span').click()
                 except NoSuchElementException:
