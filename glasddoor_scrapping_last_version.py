@@ -1,22 +1,35 @@
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 import time
 import pandas as pd
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from datetime import datetime,timedelta
 import re
-#locations = ["Qatar","United Kingdom","France","Turkey"]
-locations = ["Qatar","United Kingdom"]
-def get_jobs(keyword, num_jobs, verbose,path):
+locations = ["Qatar","United Kingdom","France","Turkey"]
+#locations = ["Qatar","United Kingdom"]
+def get_jobs(keyword, num_jobs):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
     # Initializing the webdriver
     global jobs_for_country
     jobs_for_country = []
     global jobs_for_countries
     jobs_for_countries = []
+    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+    chrome_options = Options()
+    options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"]
+    for option in options:
+       chrome_options.add_argument(option)
     options = webdriver.ChromeOptions()
-    driver = webdriver.Chrome(executable_path=path, options=options)
-    driver.set_window_size(1120, 1000)
+    driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
     for country in locations:
         jobs_for_country=[]
         url='https://www.glassdoor.com/Search/results.htm?keyword={}&locT=C&locName={}'.format(keyword.replace(' ','%20'),country)
@@ -31,24 +44,14 @@ def get_jobs(keyword, num_jobs, verbose,path):
         except:
             pass
         #after loding the page we are clicking on "see all the jobs " button 
-        time.sleep(2)
+        time.sleep(10)
         try:
             driver.find_element(By.XPATH,'//span[@class="SVGInline css-1mgba7 css-1hjgaef"]').click()
         except:
             pass
-        # Click on the first job & Test for the "Sign Up" prompt and get rid of it.
-        try:
-            driver.find_element(By.XPATH,"//*[@id='MainCol']/div[1]/ul/li[1]").click()
-        except:
-            pass
         
-        time.sleep(5)
-        # Clicking on the Close X button to close the "Sign Up" prompt.
-        try:
-            driver.find_element(By.XPATH,'//*[@id="JAModal"]/div/div[2]/span').click()
-        except NoSuchElementException:
-            pass
-        time.sleep(5)
+       # time.sleep(5)
+       # time.sleep(5)
         while len(jobs_for_country) < num_jobs: 
             job_buttons = driver.find_elements(By.XPATH,"//*[@id='MainCol']/div[1]/ul/li")
             # Going through each job url in this page
@@ -61,12 +64,17 @@ def get_jobs(keyword, num_jobs, verbose,path):
                     # When the number of jobs collected has reached the number we set. 
                     break
                 job_buttons[job].click()  
-                time.sleep(5)
+                #time.sleep(5)
+                try:
+                    driver.find_element(By.XPATH,'//*[@id="JAModal"]/div/div[2]/span').click()
+                except NoSuchElementException:
+                    print("وينهاااااااا")
+                    pass
                 collected_successfully = False
                                
                 while not collected_successfully:
                     try:
-                        time.sleep(5)
+                        time.sleep(10)
                         company_name = driver.find_element(By.XPATH,'//div[@class="css-xuk5ye e1tk4kwz5"]').text
                         location = driver.find_element(By.XPATH,'.//div[@class="css-56kyx5 e1tk4kwz1"]').text
                         job_title = driver.find_element(By.XPATH,'.//div[@class="css-1j389vi e1tk4kwz2"]').text
@@ -76,6 +84,7 @@ def get_jobs(keyword, num_jobs, verbose,path):
                         collected_successfully = True
                     except:
                         collected_successfully = True
+               # time.sleep(5)
                 #Click on "Show More" for extract full description                        
                 try:
                     driver.find_element(By.XPATH,'//div[@class="css-t3xrds e856ufb2"]').click()
@@ -140,7 +149,7 @@ def get_jobs(keyword, num_jobs, verbose,path):
             # Clicking on the "next page" button
             try:
                 driver.find_element(By.CSS_SELECTOR,'[alt="next-icon"]').click()
-                time.sleep(10)
+               # time.sleep(10)
             except NoSuchElementException:
                 print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs_for_country)))
                 break
@@ -148,7 +157,6 @@ def get_jobs(keyword, num_jobs, verbose,path):
             jobs_for_countries.append(i) 
     #This line converts the dictionary object into a pandas DataFrame.                
     return pd.DataFrame(jobs_for_countries)                    
-path='chromedriver.exe'  
-df=get_jobs('data',3,False,path)
-df.to_csv("data_final.csv",index=True)
+df=get_jobs('data',3)
+df.to_excel("data_final.xlsx",index=True) 
      
