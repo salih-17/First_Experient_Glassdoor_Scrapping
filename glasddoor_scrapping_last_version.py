@@ -9,8 +9,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from datetime import datetime,timedelta
 import re
-locations = ["Qatar","United Kingdom","France","Turkey"]
-#locations = ["Qatar","United Kingdom"]
+#locations = ["Qatar","United Kingdom","France","Turkey"]
+locations = ["Qatar"]
 def get_jobs(keyword, num_jobs):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
     # Initializing the webdriver
