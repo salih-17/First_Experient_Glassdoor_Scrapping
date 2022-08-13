@@ -11,13 +11,14 @@ from datetime import datetime,timedelta
 import re
 #locations = ["Qatar","United Kingdom","France","Turkey"]
 locations = ["Qatar","United Kingdom"]
-def get_jobs(keyword, num_jobs, verbose,path):
+def get_jobs(keyword, num_jobs):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
     # Initializing the webdriver
     global jobs_for_country
     jobs_for_country = []
     global jobs_for_countries
     jobs_for_countries = []
+    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
     chrome_options = Options()
     options = [
     "--headless",
@@ -29,8 +30,8 @@ def get_jobs(keyword, num_jobs, verbose,path):
     "--disable-dev-shm-usage"]
     for option in options:
        chrome_options.add_argument(option)
-    options = webdriver.ChromeOptions()
-    driver = webdriver.Chrome(executable_path=path , options=chrome_options)
+    options = webdriver.ChromeOptions() 
+    driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
     for country in locations:
         jobs_for_country=[]
         url='https://www.glassdoor.com/Search/results.htm?keyword={}&locT=C&locName={}'.format(keyword.replace(' ','%20'),country)
