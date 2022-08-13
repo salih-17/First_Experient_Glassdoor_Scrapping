@@ -9,8 +9,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from datetime import datetime,timedelta
 import re
-#locations = ["Qatar","United Kingdom","France","Turkey"]
-locations = ["Qatar","United Kingdom"]
+locations = ["Qatar","United Kingdom","France","Turkey"]
+#locations = ["Qatar","United Kingdom"]
 def get_jobs(keyword, num_jobs):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
     # Initializing the webdriver
@@ -155,5 +155,5 @@ def get_jobs(keyword, num_jobs):
     #This line converts the dictionary object into a pandas DataFrame.                
     return pd.DataFrame(jobs_for_countries)    
 df=get_jobs('data',3)
-df.to_excel("data_final.xlsx",index=True) 
+df.to_csv("data_final.csv",index=True) 
      
