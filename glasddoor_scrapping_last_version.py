@@ -33,6 +33,7 @@ def get_jobs(keyword, num_jobs):
     options = webdriver.ChromeOptions() 
     driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
     for country in locations:
+        print("the country is =",country)
         jobs_for_country=[]
         url='https://www.glassdoor.com/Search/results.htm?keyword={}&locT=C&locName={}'.format(keyword.replace(' ','%20'),country)
         time.sleep(5)
