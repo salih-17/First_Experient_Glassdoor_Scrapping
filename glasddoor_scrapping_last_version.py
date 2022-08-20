@@ -94,7 +94,7 @@ def get_jobs(keyword, num_jobs):
                         driver.find_element(By.XPATH,'//div[@class="css-t3xrds e856ufb2"]').click()
                     except NoSuchElementException:
                         pass   
-                    job_description_full = driver.find_element(By.XPATH,'.//div[@class="jobDescriptionContent desc"]').text
+                    #job_description_full = driver.find_element(By.XPATH,'.//div[@class="jobDescriptionContent desc"]').text
                     try:
                         Posted_Date=driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[3]/div[2]/div[2]'.format(job+1)).text
                     except NoSuchElementException:
@@ -153,7 +153,7 @@ def get_jobs(keyword, num_jobs):
                     "jobType" :job_type,
                     "JobURL" : job_url,
                     "ShortDiscribtion" : "N/A",
-                    "fullJobDescribtion":job_description_full,
+                    "fullJobDescribtion":"N/A",
                     "Posted_Date_N":Posted_Data_N,
                     })
                 # Clicking on the "next page" button
