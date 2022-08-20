@@ -1,19 +1,45 @@
 ,Country,City,JobId,Source,CollectedDate,JobTitle,CompanyName,RatingNumber,PostedDate,Salary,jobType,JobURL,ShortDiscribtion,fullJobDescribtion,Posted_Date_N
-0,Qatar,Doha,1008011480150,Glassdoor,2022-08-13,Data Entry - Logistics,"B Holding
-5.0",5.0,26d,N/A," Full-time, Permanent",https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=000001829675c7f28c488f1d44597584&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_0283ddc2&cb=1660381677848&jobListingId=1008011480150&jrtk=3-0-1gab7bi0jgrhj801-1gab7bi10jm7r800-e68a768aa338085b-,N/A,"We are hiring Administrative Officer with minimum 3 years of experience in Data Entry - Business Analyst - Logistics
-Data Entry Operator Qualifications/Skills:
-Excellent attention to detail.
-Ability to multitask effectively.
-Strong written and verbal communication skills.
-Ability to perform repetitive tasks with a high degree of accuracy.
-Comfortable working independently with minimal supervision.
-Job Types: Full-time, Permanent
-Ability to commute/relocate:
-Doha: Reliably commute or planning to relocate before starting work (Required)
+0,Qatar,Doha,1008049422541,Glassdoor,2022-08-20,Data Entry Operator (Medical Sector),"BPO PLUS
+3.1",3.1,17d,QAR 48K - QAR 72K (Employer est.)," Full-time, Contract",https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=00000182bca94537a3dca44892bbfdbc&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_c8d3b03b&cb=1661022586610&jobListingId=1008049422541&jrtk=3-0-1gauaihgb2or7001-1gauaihgq23j4000-4f0bf10e817d77cf-,N/A,"Position Title: Data Entry Operator (Medical Sector)
+Qualification:
+Bachelor’s Degree in business administration or its equivalent
+Experience & Knowledge Requirement:
+Minimum 5 years of experience Data Entry in the Medical Sector, computer-savvy with a working knowledge of logistics software (ERP).
+Skills Requirements:
+Microsoft office skills.
+Good communication skills
+Customer Oriented
+Time Management
+Major Responsibilities:
+Assist Logistics and SCM Team in the daily transaction, such as delivery, backorder and item creation.
+Shipped out the outbound transaction through ERP System.
+Assess and resolve issues related to excess quantity, duplicate orders (item code and description), and discontinued items.
+Performing logical transaction data in Oracle as per SCM team request.
+Update sub-inventory, quantity, and lot expiry of the item.
+Submit a request for a backordered item.
+Update the master list to avoid item duplication.
+Responsible for tracking orders and order creation.
+Escalate order creation issue and report to Clinical Supply Chain Management Supervisor.
+Assisting Data Entry Operator in resolving the ERP transaction issue.
+Assisting with SCM team for outbound reconciliation.
+Responsible for all outbound transactions performing in Oracle without any pending.
+Coordinate activities with the Logistics Team to ensure timely approval of Requisitions.
+Shared expired item details and P.O details daily as per Storekeepers’ request.
+Participate in yearly stock counting in Health Center and Central Warehouse and report any discrepancy to the SCM team.
+Follow office workflow procedures to ensure maximum efficiency
+Support meeting and conferencing needs.
+Maintain files and records with effective filing systems
+Job Types: Full-time, Contract
+Contract length: 36 months
+Salary: QAR4,000.00 - QAR6,000.00 per month
 Education:
-Bachelor's (Preferred)",2022-07-18
-1,Qatar,Qatar,1008032650602,Glassdoor,2022-08-13,TECHNICAL ASSISTANT,"Qatar Petroleum
-4.0",4.0,16d,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=000001829675c7f28c488f1d44597584&src=GD_JOB_AD&t=SR&vt=w&cs=1_9291d1ab&cb=1660381677848&jobListingId=1008032650602&jrtk=3-0-1gab7bi0jgrhj801-1gab7bi10jm7r800-8e4e772d538e8633-,N/A,"Company
+Bachelor's (Required)
+Experience:
+Data Entry in the Medical Sector: 5 years (Required)
+License/Certification:
+Qatar ID (Required)",2022-08-03
+1,Qatar,Qatar,1008032650602,Glassdoor,2022-08-20,TECHNICAL ASSISTANT,"Qatar Petroleum
+4.0",4.0,24d,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000182bca94537a3dca44892bbfdbc&src=GD_JOB_AD&t=SR&vt=w&cs=1_10c6a0a9&cb=1661022586610&jobListingId=1008032650602&jrtk=3-0-1gauaihgb2or7001-1gauaihgq23j4000-8e4e772d538e8633-,N/A,"Company
 
 QatarEnergy is an integrated national oil corporation that stands at theforefront of efforts for the long term sustainable
 
@@ -77,159 +103,128 @@ system.
 
 Education
 
-Two years Diploma (after high school) in engineering. Good verbal and written command of English is required.",2022-07-28
-2,Qatar,Doha,1007567176042,Glassdoor,2022-08-13,Data Scientist - Advanced Analytics,"McKinsey & Company
-4.4",4.4,30d+,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=000001829675c7f28c488f1d44597584&src=GD_JOB_AD&t=SR&vt=w&cs=1_7a599422&cb=1660381677848&jobListingId=1007567176042&jrtk=3-0-1gab7bi0jgrhj801-1gab7bi10jm7r800-777b91555ee9b1eb-,N/A,"Who You'll Work With
-You will be based in our Riyadh, Saudi Arabia or Doha, Qatar office as part of our Advanced Analytics team, partnering with consultants, clients, and other colleagues.
-Our Advanced Analytics teams bring the latest analytical techniques plus a deep understanding of industry dynamics and corporate functions to help clients create the most value from data.
-What You'll Do
-You will use data creatively to solve business challenges, often uncovering new and transformative opportunities along the way.
-In this role, you will focus on the development of advanced analytics models to optimize underlying business problems. You will apply state-of-the-art advanced analytics, quantitative tools and modeling techniques to interpret, make inferences and offer recommendations based on insights from the data. You will shape the future of what data-driven organizations look like, drive processes for extracting and using that data in creative ways and create new lines of thinking within an infinite number of clients and situations.
-You will create valuable, transformative business strategies through the measurement, manipulation, reporting and dissemination of broad sets of data. You will apply and advise on state-of-the-art advanced analytic and quantitative tools and modeling techniques in order to derive business insights, solve complex business problems and improve decisions. You will review, support and advise on the day-to-day analytics requirements of clients’ key operational processes while continually improving the impact of these processes.
-Qualifications
-Undergraduate degree in mathematics, statistics, physics, engineering; master's degree is a plus
-3+ years of professional experience in programming; experience applied to business problems is a plus
-Experience in programming (focus on machine learning) in Python and/or R; knowledge in SPSS, SAS, Ruby, Hadoop is a plus
-Experience in data treatment/data mining: SQL, AWK, Access, Spark, Excel
-Demonstrated aptitude for analytics; statistical knowledge is a plus
-Proven record of leadership in a work setting and/or through extracurricular activities
-Ability to work collaboratively in a team environment and effectively with people at all levels in an organization
-Ability to communicate complex ideas effectively, both verbally and in writing, in English; fluency in local office language(s) is a plus",2022-07-14
-3,United Kingdom,"Birmingham, England",1008066425644,Glassdoor,2022-08-13,Data Analyst,"University Hospitals Birmingham
-3.6",3.6,2d,£27K - £33K (Employer est.)," Full-time, Permanent",https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000018296762d50ab70c284cdfeb6e6&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_44a16a33&cb=1660381703876&jobListingId=1008066425644&jrtk=3-0-1gab7cbbsk61t801-1gab7cbcajfnq800-de0732b2f020cc33-,N/A,"At University Hospitals Birmingham our teams are committed to building healthier lives – this includes our colleagues as well as patients.
-To ensure we are continually developing our services to all departments, our Health Informatics team support the provision of data services to all areas of the Trust. With growing demands on the team, a new opportunity for a Data Analyst has been created to support the provision of data services across the Trust.
-You as the successful candidate, will work with clinical, operational and corporate data to support a variety of project-based and ad-hoc work. You will use your previous analytical experience gained in either academic or professional settings.
-In addition, you will have a foundation in technical scripting/programming. Experience of; SQL, Power BI, SQL Server (SSMS, SSIS, SSRS), R, Python is desirable but not essential.
-To be effective in this role you will have keen attention to detail, and be proactive in improving data quality and increasing automation. You will be able to demonstrate your numeracy and analytical skills at assessment and interview.
-In return you can expect to join like minded people who deliver unequivocal excellence in all aspects of their role, who are encouraged by their peers to deliver on their individual ability and creativity and who continue to drive the department’s innovations. You will compliment this team, with your ability to think through complex problems, always driving continuous improvement and developing best practices in Informatics.
-In return you can expect to join Birmingham and Solihull’s largest employer where you will have a direct impact on how we care for our patients. You can expect a starting salary of £27,055 rising to £32,934, along with 27 days leave plus bank holidays and enrolment onto the renowned NHS Pension Scheme.
-Interested applicants are invited to get in touch with Jerry Orme, Clinical Intelligence Analyst, at jerry.orme at uhb.nhs.uk for an informal chat.
+Two years Diploma (after high school) in engineering. Good verbal and written command of English is required.",2022-07-27
+2,Qatar,Doha,1007941033330,Glassdoor,2022-08-20,DATA ENCODER,"ADVANCED CONSTRUCTION TECHNOLOGY SERVICES
+2.9",2.9,30d+,QAR 30K (Employer est.)," Full-time, Permanent",https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=00000182bca94537a3dca44892bbfdbc&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_67aa0406&cb=1661022586611&jobListingId=1007941033330&jrtk=3-0-1gauaihgb2or7001-1gauaihgq23j4000-abbf9a92fe2ac26d-,N/A,"Accurately and efficiently encode all data that needs organizing and recording
+Confirm that entered data accurately aligns with original documentation
+Organize and maintain original paper evidence
+Assure files are properly prepared and saved to backup drives
+Organize files in a logical and manageable fashion
+Adhere to and meet set schedules and deadlines
+Input, track, and maintain all encoded data and records
+Perform any other office tasks that management requires assistance with (sending emails, answering phones, etc.)
+Experienced in using the Microsoft Excel and word
+Immediate Joining
+Salary- QR 2,500 + Transportation (Full Package)
+The candidate should have QID and be ready to join immediately
 Job Types: Full-time, Permanent
-Salary: £27,055.00-£32,934.00 per year
-Benefits:
-On-site parking
-Work from home
-Schedule:
-8 hour shift
-Day shift
-Monday to Friday
-Application deadline: 29/08/2022
-Reference ID: HJ-JR-DA",2022-08-11
-4,United Kingdom,"Lincoln, England",1007872899661,Glassdoor,2022-08-13,Junior Data Scientist,"Anglian Water Services Ltd
-4.3",4.3,30d+,£37K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=0000018296762d50ab70c284cdfeb6e6&src=GD_JOB_AD&t=SR&vt=w&cs=1_c234c0b4&cb=1660381703876&jobListingId=1007872899661&jrtk=3-0-1gab7cbbsk61t801-1gab7cbcajfnq800-6ae72b72630de0a8-,N/A,"Salary – circa £37,000 dependent on skills & experience
+Salary: QAR2,500.00 per month
+Education:
+High school or equivalent (Preferred)",2022-07-21
+3,United Kingdom,"Glasgow, Scotland",1008073060927,Glassdoor,2022-08-20,Liquidity - Junior Software Engineer - Big Data,"JPMorgan Chase Bank, N.A.
+3.7",3.7,4d,£38K - £57K (Glassdoor est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=00000182bca9b4da969c57873e31ba04&src=GD_JOB_AD&t=SR&vt=w&cs=1_a5a36699&cb=1661022615314&jobListingId=1008073060927&jrtk=3-0-1gauajdcvkbmi801-1gauajddfih79800-760d078b1c61e19e-,N/A,"As a member of our Software Engineering Group, we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices. We embrace a culture of experimentation and constantly strive for improvement and learning. You'll work in a collaborative, trusting, thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
 
-Our Enterprise Data function underpins everything Anglian Water does in the business, right through from the plans in Data Architecture to the delivery of advanced machine learning solutions. As well as monitoring and maintaining our existing predictive models to ‘keep the lights on’, our Data Science team design, build and deliver new analytical solutions which will enable us to be an innovative water company of the future.
+This role is an entry level role where on the job training will be provided by your team. You will however be expected to self drive your own learning in various technologies by using online training and experimentation. Our team works with a wide variety of technologies, for the right candidate this is an excellent opportunity to learn a very wide range of software engineering skills.
 
-Working closely with business stakeholders, they help to provide a deeper level of insight about our people, customers and assets, allowing us to make the right decision at the right time.
+What we are looking for in a candidate:
+Some basic programming skills (either self taught or via a course)
+Demonstrated ability to self-learn new skills to a reasonable depth (for example new programming libraries)
+Proved team-working skills
+Ability to communicate clearly
 
+Additional experience, for example in more programming languages/technologies or as part of a previous software project would be beneficial but not required.
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.",2022-08-16
+4,United Kingdom,"London, England",1008078829570,Glassdoor,2022-08-20,Data Science Trainee,"Richmond and Wandsworth Councils
+3.7",3.7,2d,£21K - £25K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000182bca9b4da969c57873e31ba04&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_d6dd49d5&cb=1661022615314&jobListingId=1008078829570&jrtk=3-0-1gauajdcvkbmi801-1gauajddfih79800-109d4b7548b89375-,N/A,"The role
+As the Data Scientist Trainee for Wandsworth and Richmond Councils you will learn how to scope, manage, and deliver data science projects, be part of the delivery of our data and analytics strategy and action plan, and contribute towards advancing Richmond and Wandsworth Councils’ data maturity.
+You will have the unique opportunity to see the positive impact your work has on residents’ lives.
+Note: This post is restricted to only those who are required to complete 6-12 month work placement as a requirement to graduate from an advance data science degree, such as a MSc in Data Science.
+This is a fixed term post for up to 12 months.
+About the team
+The role will be based within the corporate Insight and Analytics Team, which includes data scientists, intelligence analysts, analyst support officers and a data projects officer.
+We are a very supportive and collaborative team. Our management are also strongly behind us in advancing data and analytics.
+Ideal candidate:
+Keen to learn and develop their data science skills
+Inquisitive and able to understand the business need for data analysis and products
+Able to explain data concepts to lay audiences
+Good interpersonal and communication skills
+Coding skills R or Python and able to query data using SQL
+Experience of working in cloud environment (desirable)
+Previous experience working in a data science or IT team. This could have been as a job or work experience placement. (Desirable)
+Indicative Recruitment Timeline
+Closing Date: 11:59pm on Sunday 21st August 2022
+Shortlisting Date: Sunday 21st August 2022
+Interview Date: Monday 22nd August 2022
+Useful Information
+The closing date is given as a guide. We reserve the right to close this vacancy once a sufficient number of applications has been received. We strongly advise you to complete your application as soon as possible to avoid disappointment.
+Please note that the advertised dates for interviews may change. If they do, we will let you know as soon as possible.
+Flexible Working
+At Richmond and Wandsworth Councils, we care more about how you work and what you achieve, rather than where you work on any given day. The difference you can make to our local communities is what really matters most to us, service delivery must always come first. We have carefully considered agile ways of working to provide the best experience for residents, stakeholders and our staff. Our agile working strategy actively supports and encourages a dynamic work environment and daily working experience. Agile working helps put the needs of our staff at the centre of everything we do, so if specific flexible working arrangements helps you with this, feel free to let us know.
+Your wellbeing and the flexible way in which you can work is and will remain a key priority for Richmond and Wandsworth Councils. We want you to thrive and feel empowered in your work!
+Benefits
+We recognise the importance of a good balance between work and home life so we do everything we can to accommodate flexible working including, working from home, compressed or part-time hours, term time only, job shares and other arrangements. Please just let us know in your application or at any stage throughout the process (and beyond) if these are options you’d like to explore.
+We also offer a generous holiday allowance of 31 paid days (pro rata) plus bank holidays and a wide range of learning and development opportunities. In addition, we offer a comprehensive range of staff benefits such as membership of the Local Government pension scheme, childcare vouchers, new technology scheme, interest-free loans on annual travel cards, discounts with many leisure activities, restaurants, shops and other establishments.
+Equality Statement
+We particularly welcome applications from sections of the community who are currently underrepresented within our teams, including BAME and local residents.
+Richmond and Wandsworth Councils are committed to making our recruitment practices as inclusive as possible for everyone. We are committed to promoting equality and diversity and developing a culture that values differences, recognising that employees from a variety of backgrounds bring important and positive contributions to the Councils and can improve the way we deliver services. We are proud to be a Disability Confident employer.
+Important Information
+Richmond and Wandsworth Councils are committed to safeguarding and promoting the welfare of children and young people/vulnerable adults and expects all staff and volunteers to share this commitment.",2022-08-18
+5,United Kingdom,"Liverpool, England",1008068665533,Glassdoor,2022-08-20,Insights Data Analyst,"Liverpool Football Club
+4.3",4.3,8d,£28K - £40K (Glassdoor est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=00000182bca9b4da969c57873e31ba04&src=GD_JOB_AD&t=SR&vt=w&cs=1_9cd541ca&cb=1661022615314&jobListingId=1008068665533&jrtk=3-0-1gauajdcvkbmi801-1gauajddfih79800-6db95778249883e6-,N/A,"About the role
+We have an exciting opportunity to join our digital marketing department as an Analyst. In this role, you’ll be responsible for driving the insight agenda and informing commercial decisions from complex data from multiple sources and databases, playing a key role in meeting the requirements of the insight schedule and delivering against the Club’s strategic priorities by providing visual and actionable customer insight. You’ll aid the digital marketing campaign process assisting the wider Marketing team to segment and target LFC audiences whilst tracking results and helping to increase ROAS.
 What will you be doing?
-
-We are expanding our existing data science team, which have been delivering innovative projects within Anglian Water over the last 5 years, using leading data science tools and infrastructure to create artificial intelligence systems and advanced business intelligence capabilities.
-
-In this role you will be supporting the Smart Strategy Programme. As a Junior Data Scientist you will have the chance to develop your programming and statistical modelling skills. Working in a collaborative and supportive environment you will play an active role in the delivery of key data science outputs.
-
-You will be responsible for collaborating with business Subject Matter Experts to discover the information hidden in various sources of content and data, helping us to make smarter decisions to reduce service failure and deliver better customer outcomes.
-
-Reporting to the Data Science Manager, you will also ensure outputs of data models are available in the Azure Data Lake and in the format required by the chosen delivery route. Through close working with the Enterprise Data Architects and the Data Services team you will maintain an awareness of available data sources and feed back any new requirements.
-
-What do you need?
-
-We are looking for a Junior Data Scientist who is looking to develop their knowledge and capability, with some prior experience of:
-
-Developing solutions to a range of varied problems using data science techniques
-
-Knowledge of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
-
-Programming in Python and SQL
-
-Data modelling and ETL processes
-
-Familiarity utilising API’s
-
-Knowledge of data integration and reporting technologies
-
-Knowledge of relational database design
-
-What benefits do we offer?
-
-Our people are important to us and we want to make sure that we reward and recognise all of the great work that they do. Some of our benefits include:
-
-Bonus scheme
-
-Private health care
-
-Competitive pension scheme
-
-26 days annual leave rising with length of service
-
-Flexible benefits to support your wellbeing
-
-Flexible working (dependent on your role)
-
-We are passionate and committed to the learning and development of our people making sure they have the right skills and knowledge to be successful and to help achieve their potential. We also take Health and Safety very seriously in everything that we do.
-
-If you are offered a job with us, you’ll be subject to the relevant/standard employment checks, including: your right to work in the UK, reference, driving licence and identity check. Depending on your role, you may also be subject to further pre-employment checks.
-
-Closing Date: 23rd August 2022
-
-#loveeverydrop",2022-07-14
-5,United Kingdom,"Sunderland, North East England, England",1008062303595,Glassdoor,2022-08-13,Data Analyst,"South Tyneside and Sunderland NHS Foundation Trust
-3.3",3.3,3d,£26K - £32K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=0000018296762d50ab70c284cdfeb6e6&src=GD_JOB_AD&t=SR&vt=w&cs=1_918dd431&cb=1660381703876&jobListingId=1008062303595&jrtk=3-0-1gab7cbbsk61t801-1gab7cbcajfnq800-4d5c7ad9ab5f54e1-,N/A,"Please switch to a desktop device before starting your application.
-An exciting opportunity has arisen within the Information Services team for a Data Analyst to support the organisation with the development of reporting of high quality and timely information both internally and externally to support operational needs. We are looking for someone who has experience of data extraction, analysis and visualisation techniques, with strong customer service and communication skills.
-
-Please note there are 2 posts available;
-
-1x full time permanent and 1x full time fixed term for 12 months. Secondment applications are welcomed.
-
-Interviews are scheduled for 7th September 2022.",2022-08-10
-6,France,Paris,1007493535666,Glassdoor,2022-08-13,"Data Scientist (full time, all seniority levels) - QuantumBlack","McKinsey & Company
-4.4",4.4,30d+,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000018296768d8f807e46eea2348539&src=GD_JOB_AD&t=SR&vt=w&cs=1_a2aeb99b&cb=1660381728473&jobListingId=1007493535666&jrtk=3-0-1gab7d3e3k61l801-1gab7d3eij4hg800-02d4e4e7c8e2550c-,N/A,"Who You'll Work With
-Based in Paris and working across the region, as a consultant data scientist you will work closely with our clients, data engineers and all types of McKinsey consultants on interdisciplinary projects, using maths, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.
-This hybrid client-facing/technical role will allow you to use state of the art technologies to solve highly impactful business problems, whilst also leveraging your strong communication skills to convey complex intractable ideas to non-technical audiences.
-Who you are
-This full time position is for a data scientist across all seniority levels with strong intrinsic technical ability and an aptitude to solving complex problems using technology.
-A core value at QuantumBlack is fusion and at the heart of our multi-disciplinary teams is the belief that the sum of individual parts will always be less than the impact of the entire team. You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritizing impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly. Trust between colleagues is paramount here – you are an individual who can always be trusted to work in the best interests of all colleagues and to achieve the best outcome for QuantumBlack and our clients. You are naturally enthusiastic and enjoy sharing your passion with others.
-What You'll Do
-As a Data Scientist with the Paris office...
-You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally.
-You will influence many of the recommendations our clients need to positively change their businesses and enhance performance.
-Role responsibilities
-Work on complex and extremely varied data sets from some of the world’s largest organisations to solve real world problems
-Develop data science products and solutions for clients as well as for our data science team
-Write highly optimized code to advance our internal Data Science Toolbox
-Work in a multi-disciplinary environment with specialists in machine learning, engineering and design
-Add real-world impact to your academic expertise, as you are encouraged to write ‘black’ papers and present at meetings and conferences should you wish
-Attend conferences such as NIPS and ICML as one global team as well as Data Science retrospectives where you will have the opportunity to share and learn from your co-workers.
-Work within one of the largest and most advanced data science teams in Europe, support the Lead Data Scientists to develop data science products
-What you’ll learn
-How successful projections on real world problems across a variety of industries are completed through referencing past deliveries of end to end machine learning pipelines
-Build products alongside the core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
-Be able to focus on modelling by working alongside the Data Engineering team which focuses on the wrangling, clean-up and transformation of data.
-Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
-Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
-Using new technologies and problem-solving skills in a multicultural and creative environment
-You will work on the frameworks and libraries that our teams of Data Scientists and Data Engineers use to progress from data to impact. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
-Real-World Impact – No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
-Fusing Tech & Leadership – We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
-Multidisciplinary Teamwork - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
-Innovative Work Culture – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
-Striving for Diversity – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
-Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car’s performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture:
-Healthcare Efficiency – We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
-Environmental Impact – We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
-Product Development – We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
-Please note that the recruiting process for this role can take up to 5 weeks, together with the necessary preparation - we advise you to take this into consideration when thinking about the timing of your application.
-Qualifications
-Master’s degree in quantitative field like computer science, engineering, statistics, mathematics or related field required; advanced degree advantageous
-Deep technical experience in predictive analytics, machine learning, optimization, etc.
-Good knowledge of statistical approaches including advanced machine learning techniques (e.g. data science, support vector machines, neural nets, deep learning, machine learning) and/or optimization
-Fluent in a number of the following technologies: R, Python, Julia, SQL, GMPL or related
-Strong presentation and communication skills, with a knack for explaining complex analytical concepts to people from other fields
-Team leadership, mentoring or project management skills
-French and English fluency
-Willingness to travel up to 80%",2022-07-14
-7,France,Montpellier,1007663226815,Glassdoor,2022-08-13,Data analyste,"PwC
-3.9",3.9,30d+,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=0000018296768d8f807e46eea2348539&src=GD_JOB_AD&t=SR&vt=w&cs=1_44c9085d&cb=1660381728473&jobListingId=1007663226815&jrtk=3-0-1gab7d3e3k61l801-1gab7d3eij4hg800-c71b182b4fad501f-,N/A,"Description
+Query LFC’s fan data from multiple data sources – including the Club’s marketing data warehouse, web & app analytics, social analytics, web benchmarking tools, the Club’s mobile apps, TV channel (LFCTV) and more – utilising SQL, Excel and other analytical tools whilst calling on various techniques to provide trends and behavioural insight for business units across the organisation as required
+Interrogate and analyse data to produce valuable, clear and concise findings and recommendations which can be used to inform commercial decisions and be translated into tangible actions
+Deliver easy-to-consume fan & customer insight reports and data visualisations within the Digital department and to the business overall, focussing on delivering insight that can aid the Club’s strategic priorities, adding commentary that is relevant and actionable
+Regularly update trackers, visual dashboards, stats reports, etc. keeping a track of the Club’s digital performance as well as its main competitors’. Track performance against digital KPIs
+Develop and maintain a good working relationship with senior leaders and commercial teams to communicate key results on a regular basis presenting to stakeholders on behalf of the Marketing Insight team where required to demonstrate the potential impacts on the business
+Stay on top of the Marketing Insight team’s inbox issuing ad-hoc insight updates in an accurate and timely manner as required by the multiple stakeholders serviced by the team
+Attend regular meetings with members of the wider business to identify and capture the insight requirements of digital marketing campaigns and deliver back insight
+Provide recommendations on fan segments and target groups from data for LFC’s digital marketing campaigns. Issue marketing campaign wrap-ups reporting on key campaign results and ROAS, quantifying the impact of decisions we influence and providing clear recommendations for future campaigns
+Who are we looking for?
+To be successful you will have previous experience working within a digital marketing environment, including a relative degree level or equivalent. You’ll have experience working with multiple datasets, generating analysis to tight deadlines with stakeholders, with an eye for detail and experience turning data into insight/information, reports and visual presentations that can be presented and easily consumed by different stakeholders. You will have experience with database technologies with a good understanding of using the SQL language to query data as well as experience building digital dashboards, data visualisations, graphs and charts, preferably within Microsoft Power BI or Tableau. You will have a solid understanding of Google, SQL and other relevant analytic tools.
+You’ll be able to demonstrate the ability to multi-task and work under pressure as well as being proactive and showing willingness to help others, when necessary, along with an ability to maintain good relationships with internal and external stakeholders and agencies. You will have strong organisational skills, attention to detail and excellent communication and writing skills. You’ll be a self-learner with a proactive attitude towards seeking to develop skills on new environments, platforms, and systems. You will have a strong understanding of digital analytics and Microsoft office tools, along with knowledge of main social networks and key digital marketing metrics.
+Why should you apply?
+This is a full-time permanent role working 35 hours per week Monday to Friday. Your main base will be our Head Office in Liverpool City Centre which is close to local bars, shops and restaurants and has great views over the river Mersey.
+To reward your hard work and commitment we offer a competitive salary, 25 days holiday (plus 8 bank holidays and the option to purchase up to an additional 5 days) and a contributory pension scheme.
+You will have access to our benefits kit bag where you can get high street discounts, and a selection of benefit schemes you can join. There are opportunities to get involved with volunteering through our LFC Foundation to give back to the local community.
+We aspire to be the most inclusive club in world football - providing fair and appropriate opportunities to as many people from different backgrounds as possible, being welcoming and meeting their needs as best we can. We are committed to hiring great people representative of a variety of backgrounds, perspectives, and skills, not just because it`s the right thing to do, but because we believe it makes our Club stronger. If you share our enthusiasm and passion for inclusivity, then we want to hear from you.
+Liverpool FC is committed to safeguarding and promoting the welfare of children and vulnerable adults and expects all Colleagues and Volunteers to share this commitment.",2022-08-12
+6,France,Paris,1008075633207,Glassdoor,2022-08-20,Data Scientist H/F,"Natan (SSII)
+4.8",4.8,3d,€55K - €70K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=00000182bcaa2235893b03386b954459&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_cb2fc364&cb=1661022643069&jobListingId=1008075633207&jrtk=3-0-1gauak8jekuhj801-1gauak8k0k24j800-07de6c0c99d7d08d-,N/A,"En rejoignant NATAN...
+vous retrouverez une ESN ambitieuse portée par le goût de l’excellence.
+Nous mettons particulièrement l’accent sur l’accompagnement, la proximité et la stabilité de nos collaborateurs afin de permettre à nos équipes de travailler dans des conditions idéales.
+Notre stratégie est simple : accompagner nos collaborateurs à chaque étape de leur carrière pour qu'ils soient en mesure d'apporter toute leur expertise à nos clients. Nous sommes convaincus que notre réussite réside dans notre capacité à créer un cercle vertueux où chacun des acteurs s'investit dans un but commun.
+Nous intervenons sur des projets à forte valeur ajoutée et sur un périmètre exclusivement grands comptes.
+En intégrant NATAN, vous avez l'assurance de bénéficier d'un véritable accompagnement tout au long de votre carrière, en bénéficiant de formations et certifications, de choix de mission, et de projets, adaptés à votre développement professionnel.
+CONTEXTE (Finance) :
+Au sein du département en charge d'automatisation transverse des besoins de la directions financières, une entité a la charge du quartier Finance (Big Data), du portail One Finance (Portail Web) et de solutions tactiques.
+La prestation se déroulera au sein de Datascience du métier DFIN/CRL en charge de la mise en place de controle de niveau 2 pour s'assurer de la qualité des services et déliveries de la direction financières.
+LES MISSIONS :
+Dans ce cadre, la prestation consiste à contribuer à/au(x):
+La mise en place de controle comple sur les données (Liquidité, Risque de Crédit, Cout Net du risque, TVA fournisseur) avec des algorythmes de datascience permettant de challenger et de controler les premiers controles.
+Modélisation du controle et mise en place un algorythme permettant de garantir la qualité des produits et des services.
+Les livrables attendus sont :
+Compte rendu des réunions avec l'utilisateur final synthétisant les besoins de controle émises par le métier
+Mise en place de POC pour tester différents algorythme et présenter plusieurs scénarios de controle avec du backtesting permettant de juger de la pertinence de l'algo
+Mise en place et tests des algo sur des données de production dans le cadre d'un lab
+Déploiement du code dans un environnement industrialisé en utilisant les outils de CI/CD permettant de relivrer rapidement les nouvelles modifications.
+LA STACK TECHNIQUE :
+Ansible
+JupytR Hub
+Python
+Spark
+PRÉREQUIS INDISPENSABLES
+Maitrise de l'anglais
+Type d'emploi : Temps plein, CDI
+Salaire : 55 000,00€ à 70 000,00€ par an
+Programmation :
+Travail en journée
+Expérience:
+data science: 3 ans (Exigé)",2022-08-17
+7,France,Montpellier,1007663226815,Glassdoor,2022-08-20,Data analyste,"PwC
+3.9",3.9,30d+,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000182bcaa2235893b03386b954459&src=GD_JOB_AD&t=SR&vt=w&cs=1_c67d200c&cb=1661022643069&jobListingId=1007663226815&jrtk=3-0-1gauak8jekuhj801-1gauak8k0k24j800-c71b182b4fad501f-,N/A,"Description
 vrai plus, c’est que cette communauté est sans frontières ! Nos collaborateurs travaillent au quotidien avec tous les métiers et avec notre réseau international. Et pour être au top de l’innovation, on a ce qui se fait de mieux en matière d’environnement de travail et d’outils technos : datalab, delta room, intelligence artificielle, machine learning…
 Résultats ? Une activité multipliée par 2 en 3 ans (et ce n’est pas fini), une expertise reconnue et une position de leader en France.
 Bienvenue au cœur du big bang !
@@ -256,58 +251,36 @@ Tu disposes d’une bonne capacité d’adaptation et d’organisation dans le c
 Doté(e) d’un bon relationnel, ton énergie et enthousiasme te permettra de contribuer à améliorer la performance et la satisfaction de nos clients internes et externes.
 Tu maîtrises une ou plusieurs des technologies suivantes : SQL, Alteryx, Access, VBA, VBNET, C#, SAS, R ou un des outils BI/Datavisualisation, c’est top !
 Le poste est à pourvoir en stage pour une durée de 6 mois.
-On ne va pas se mentir, on est un cabinet de conseil et d’audit…mais pas tout à fait comme les autres",2022-07-14
-8,France,Massy,1008068137335,Glassdoor,2022-08-13,Data Analyst (H/F),"Carrefour
-3.8",3.8,24h,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=0000018296768d8f807e46eea2348539&src=GD_JOB_AD&t=SR&vt=w&cs=1_cbc1f54d&cb=1660381728473&jobListingId=1008068137335&jrtk=3-0-1gab7d3e3k61l801-1gab7d3eij4hg800-563a5676c16e93ac-,N/A,"Le Groupe Carrefour c’est le pionner de la grande distribution en France mais également un acteur majeur du digital et de l’e-commerce avec une multitude de sites internet dédiés aux produits et services du Groupe (produits alimentaires, spectacle, banque, voyage, assurance, panier-repas...), au recrutement et à la formation. La data qui est au cœur de la transformation digitale de Carrefour, vous donnera accès à des projets passionnants.
-La Direction Data Management Marchandises recherche un(e) :
-Data Analyst (H/F)
-
-La Direction Master Data Management Marchandise est le garant des processus de référencement et de la qualité des données.
-A ce titre, le pôle Data Quality Management doit :
-Garantir la présence, la pertinence et la qualité des données produits et fournisseurs dans le SI en coordination avec les autres départements de la « Data Management».
-Proposer des solutions d’automatisation visant à réduire ou éradiquer les travaux inutiles dans le cadre d’une démarche lean.
-Mettre en place des KPIs et des reporting opérationnels
-Fournir des données dans le cadre d’audits ou de besoins internes à Carrefour
-
-Missions :
-Créer, documenter et maintenir des scripts pythons et de SQL
-Créer des algorithmes de détection d’anomalies référentielles
-Connaitre suffisamment les process métier pour interagir avec les responsables de process des autres entités et réaliser des expressions de besoin
-Mettre en œuvre ou paramétrer les outils d’alimentation de donnée
-Créer des KPI de suivi opérationnels des process au profit des cellules de pilotage
-Re-engeneerer des solutions obsoletes actuellement en en place (ACL, OIR) dans l’ecosystème GCP
-Les services associés à la réalisation de la mission sont diversifiés et nombreux
-Les autres départements de la direction Master Data Management Marchandise
-Les services support (référentiel, qualité, RSE, fiscalité, juridique, comptable, DSI…)
-Les magasins et le E commerce
-
-Profil :
-Savoir Être :
-Sens du client
-Esprit d’initiative
-Esprit critique
-Capacité d’ecoute
-Rigueur
-
-
-Savoir Faire :
-Une maitrise du langage python
-Une maitrise des outils GCP est un plus
-Capacité de synthèse
-Appétence aux outils BigData
-
-Informations complémentaires :
-Lieu : Massy à seulement 10 minutes à pied de la gare RER B et RER C
-Statut : Cadre
-Rémunération fixe sur 13 mois + une variable selon performance
-Intéressement et participation
-Mutuelle / prévoyance
-Remboursement des frais de transport à hauteur de 50%
-10% de remise sur achats avec la carte Pass
-2 jours de télétravail après 6 mois d'ancienneté, 5 semaines de congés payés + 14 jours de RTT
-Un comité d'entreprise dynamique et de perspectives d'évolution au sein du Groupe Carrefour.
-Vous aurez accès aux infrastructures du campus (salle de sport, conciergerie, drive, parking et large choix de restauration ).",2022-07-20
-9,Turkey,Istanbul,1008060134991,Glassdoor,2022-08-13,Data Analist Stajyeri,Doggo İnternet Hizmetleri Pazarlama ve Ticaret AŞ,N/A,4d,TRY 36K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=000001829676efadb774e3fc8b4f145e&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_fe86c9cc&cb=1660381753591&jobListingId=1008060134991&jrtk=3-0-1gab7druj2dh6001-1gab7drv5kltt800-748f943358b6be5a-,N/A,"Data Analist Stajyeri olarak,
+On ne va pas se mentir, on est un cabinet de conseil et d’audit…mais pas tout à fait comme les autres",2022-07-21
+8,France,Montrouge,1008064840638,Glassdoor,2022-08-20,Consultant Data Junior,kodemade,N/A,10d,€32K - €38K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=00000182bcaa2235893b03386b954459&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_ee754e54&cb=1661022643069&jobListingId=1008064840638&jrtk=3-0-1gauak8jekuhj801-1gauak8k0k24j800-3704bece7a72dc50-,N/A,"Kodemade est une société spécialisée dans le conseil en data. Nous contribuons tous les jours à transformer la data de nos clients en impact business, que ce soit des projets IA, du Conseil en Stratégie Data, Conception de solutions data et reportings, et plus encore !
+TON PROFIL
+De nature curieuse et engagée, les métiers du conseil, le développement de solutions et le monde de la Data t’attirent ?
+Tu possèdes un diplôme d’une école d’ingénieur ou d'un équivalent universitaire.
+Curieux, dynamique, entreprenant(e), doté(e) d'un fort goût de l'analyse et d'un bon esprit de synthèse.
+Tu disposes d'excellentes capacités relationnelles et de présentation, et tu apprécies le travail en équipe.
+Nous avons des missions passionnantes à te proposer en 1er job, au sein de notre cabinet de conseil !
+POURQUOI NOUS REJOINDRE
+L’équipe est jeune et dynamique, comme toi !
+Les missions et secteurs d’activités de nos clients sont variés et te challengeront.
+Des experts techniques et métiers t’encadreront sur tes missions pour te permettre d’exprimer pleinement ton potentiel.
+Un cursus d’intégration et un plan de formation individualisé te sera proposé à ton arrivée.
+CDI cadre.
+Salaire très attractif.
+Région : France entière.
+En somme, nous te proposons une 1ère expérience très enrichissante avec une multiplicité d’opportunités pour ton développement et ton évolution de carrière.
+L’excellence, l’esprit d’équipe, la passion et l’engagement sont des valeurs que tu partages ? Alors, contacte-nous dès maintenant.
+Type d'emploi : Temps plein, CDI
+Salaire : 32 000,00€ à 38 000,00€ par an
+Avantages :
+Horaires flexibles
+Participation au Transport
+Horaires :
+Périodes de travail de 8 heures
+Rémunération supplémentaire :
+Prime annuelle
+Primes
+Prime trimestrielle",2022-08-10
+9,Turkey,Istanbul,1008060134991,Glassdoor,2022-08-20,Data Analist Stajyeri,Doggo İnternet Hizmetleri Pazarlama ve Ticaret AŞ,N/A,12d,TRY 36K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=00000182bcaa91018f5693f09caaebbc&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_d0f484dc&cb=1661022671374&jobListingId=1008060134991&jrtk=3-0-1gaual49ejcaa801-1gaual49sis1h800-748f943358b6be5a-,N/A,"Data Analist Stajyeri olarak,
 Yazılım geliştirme konusunda kendini geliştirmeye istekli,
 Öğrenmeye açık,
 Dünya’nın önde gelen uygulamalarının kullandığı teknolojilerde kendisini geliştirmek isteyen,
@@ -333,47 +306,53 @@ Yazılım ekibi ile uyum ve iş birliği içerisinde, zaman hedeflerine uyarak p
 Mobil uygulama üzerinden hizmet veren bir şirketin geliştirilmesinde etkin rol almak ve köpek sahiplerinin ve DogGO Walkerların deneyimleri üzerinde doğrudan etkili olmak.
 *
 
-Maaş: aylık 3.000,00TRY veya üzeri",2022-08-09
-10,Turkey,Turkey,1008014379796,Glassdoor,2022-08-13,Metin Yazarı,Semantik Ajans,N/A,24d,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=000001829676efadb774e3fc8b4f145e&src=GD_JOB_AD&t=SR&vt=w&cs=1_635d71e7&cb=1660381753591&jobListingId=1008014379796&jrtk=3-0-1gab7druj2dh6001-1gab7drv5kltt800-1ddc9eb86c387c2c-,N/A,"İnternet sitelerine ve ajanslara içerik hizmeti sunan ekibimize kendi evinden ya da ofisimizden çalışmak üzere içerik yazarı arkadaşlar alınacaktır.1.FREELANCE MODEL: Ekibimizde yer almak isteyen arkadaşlarımıza 1800 TL ile 4800 TL aralığında yazdıkları kelime sayısını göre freelance hizmet bedeli ödenecektir.2. KADROLU ÇALIŞMA: Tam zamanlı ve sigortalı çalışacak arkadaşlarımıza 5800 TL ile 7300 TL arasında maaş ödenecektir. (Tecrübe şartı aranmaktadır. Uzaktan remote çalışma olabilir.
+Maaş: aylık 3.000,00TRY veya üzeri",2022-08-08
+10,Turkey,Istanbul,1008078133495,Glassdoor,2022-08-20,Data Scientist,"inveon
+4.6",4.6,2d,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=00000182bcaa91018f5693f09caaebbc&src=GD_JOB_AD&t=SR&vt=w&cs=1_ccefca19&cb=1661022671374&jobListingId=1008078133495&jrtk=3-0-1gaual49ejcaa801-1gaual49sis1h800-d1e5596880725d3a-,N/A,"What You Bring
+Master’s Degree or Ph.D. from a reputable university preferably in Computer Engineering, Industrial Engineering, Electronics, Engineering, Mathematics, or a related field of study,
+Minimum of 3 years of experience in applying various machine learning techniques and understanding the key parameters that affect their performance,
+Eager and motivated about technical writing,
+Fluent in English both spoken and written,
+Strong knowledge of Machine Learning, Python, and SQL,
+Experience in Natural Language Processing, Computer Vision,
+Interest in e-commerce, technology, and innovation is a plus,
+Business mindset and financial analysis skills are assets.
+What You’ll Be Doing
+Being part of a team building products that make use of Machine Learning,
+Develop analytics to identify problems and improvement areas for a well-defined project life cycle,
+Work in collaboration with software developers and product specialists to translate insights into products and services.
+Exploring and developing new R&D project ideas according to Inveon’s R&D vision,
+Writing the technical parts of the new Teydeb applications,
+Writing the process reports of the ongoing Teydeb projects,
+Filling out necessary application forms,
+Following and improving relations with universities and scholars,
+Collaboration with the other teams on productization.
 
-Dilerseniz ofisimizden de çalışabilirsiniz. Kadrolu çalışmada mutlaka uzun yıllar çalışma hedefi olmalıdır.)Disiplinli çalışmayı seven, özgün içerik üretebilecek, Türkçe'nin dil ve anlatım kurallarına hakim olanların başvurması önemle ricamızdır.Türkçe yazım ve anlatım kurallarına hakim değilseniz, klavye kullanım hızınız ortalamanın üstünde değilse başvuru yapmamanızı rica ediyoruz. (ÇOK ÖNEMLİ)En az 1 yıl çalışma sözü veremeyecek arkadaşlarımızın başvuru yapmamasını rica ediyoruz. (KISA VADELİ ÇALIŞMA KESİNLİKLE İSTEMİYORUZ.)Genel Nitelikler Türkçe'nin dil ve anlatım kurallarına tam hakimiyet.Çeşitli kaynaklardan araştırma yaparak %100 özgün içerik üretebilmek.Yaratıcı bir dil ve anlatıma sahip olmak.Ortalamanın üzerinde klavye kullanım hızına sahip olmak.Disiplinli çalışmaya alışkın olmak.",2022-07-20
-11,Turkey,Gebze,1008069086076,Glassdoor,2022-08-13,Data Engineering Intern,"GE Gas Power
-3.9",3.9,24h,N/A,N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=000001829676efadb774e3fc8b4f145e&src=GD_JOB_AD&t=SR&vt=w&cs=1_01cad55c&cb=1660381753591&jobListingId=1008069086076&jrtk=3-0-1gab7druj2dh6001-1gab7drv5kltt800-a3545d09cd5318b3-,N/A,"Job Description Summary
-GE Gas Power
-Welcome to tomorrow's energy—today!
-https://www.ge.com/gas-power
+What We Offer
 
-Access to affordable, reliable, flexible, and sustainable power is fundamental to modern life. As the world is shifting towards a lower carbon future, GE Gas Power is ready to be your partner in leveraging the role of natural gas for powering the world today and tomorrow. GE’s foundations were laid by Thomas Edison nearly 130 years ago to provide innovative solutions for a wide range of critical problems around the world. GE’s deep-rooted culture serves as the backbone for every step we’ve taken at GE Gas Power. With more than 300,000 employees and operations in over 170 countries, GE employees reflect both the local communities we serve and the people with whom we do business.
+Fast-growing company (Deloitte Fast 50 Winner in 2017, 2018, 2019, 2020, and 2021)
+The first and only company from Turkey to be named Fast Company’s 100 Best Workplaces for Innovators in the world!
+Silver Stevie Winner at 2020 Stevie® Awards for Great Employers on new employee onboarding category
+Team activities such as Survivor Camp and happy hours
+Continuous learning opportunities such as internal trainings, tuition reimbursement, and access to e-learning platforms
+Leadership and coaching programs
+Yoga and meditation classes, healthy snacks, discounts on fitness membership
+Access to community events at Han Spaces
 
-Diversity at GE
-We believe diversity makes us more competitive and creates value for our customers, shareholders, and employees. We believe in the value of each person’s unique identity, background, and experiences and are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected, and that they belong. By embracing diverse teams and perspectives, we are better equipped to build a world that works.
+Who We Are
 
-Our approach to diversity will be based on the following objectives:
-Our employees – to continue to strive to ensure that our workforce is as diverse as the communities we serve, while always upholding the importance of merit.
-Our workplace – to foster an inclusive culture that recognizes employees’ unique needs, helps them reach their full potential, and nurtures their diverse talents.
-Our community – to strive for diversity in suppliers and partners and engage with the communities in which we operate to support diversity.
-Job Description
-Here is a flexible working internship option!
-Essential Responsibilities:
-In this role,
-You will work with team to build data pipelines and architecture by having knowledge on SQL / ETL tools etc.
-Have knowledge on J2EE technology stack and enterprise application development on data integrations points by implementing services.
-Understand database performance parameters and apply them on application performance.
-Understand data structures, query optimization, different databases, data warehouse principles and has the ability to implement them
-Qualifications/Requirements:
-Current enrollment in a bachelor's degree program in Computer Science, Information Technology or equivalent (STEM).
-Students minimum at 3rd year of University, studying technical disciplines (primary IT)
-Fluent in English
-Willing to work full-time during summer and min. 20h/week during academic year
-Desired Characteristics:
-Technical Expertise:
-Willing to work on data/bigdata/cloud related technologies (AWS, SQL etc.).
-Willing to work with database architectures
-Strong interest in developing code in data engineering requirements
-Preferably knowledge on SQL and databases and Java.
-Understands logical and physical data models, big data architecture, data modeling methodologies.
-Communicative & open- minded.
-Good written and verbal communication skills
-Additional Information
-Relocation Assistance Provided: No
-#LI-Remote - This is a remote position",2022-07-20
+Inveon is a technology company that provides enterprise e-commerce software platform and digital growth management solutions. Through a unified and scalable digital commerce presence with sustainable growth, leads enterprise companies towards the future of commerce since 2006.
+
+In order to help companies achieve their e-commerce potential, Inveon provides:
+- inCommerce: Omnichannel Commerce Platform
+- GrowthLab: Digital Growth Management Solutions
+
+Today, the total annual e-commerce volume generated by companies using Inveon solutions exceeded a total worth of $1 billion. Inveon platforms are used by more than 70 million shoppers in 15 countries.",2022-08-18
+11,Turkey,Van,1008039238818,Glassdoor,2022-08-20,Saha aktivite temsilcileri,Kanserle Mücadele,N/A,21d,TRY 51K - TRY 84K (Employer est.),N/A,https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=00000182bcaa91018f5693f09caaebbc&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_9e1f6623&cb=1661022671374&jobListingId=1008039238818&jrtk=3-0-1gaual49ejcaa801-1gaual49sis1h800-10d5d096895e36ed-,N/A,"Kanserle mücadele derneği bünyesinde 10:30 ile 19:00 saatleri arasında sahada aktif olarak görev alacak, diksiyonu düzgün, iletişim sorunu yaşamayan, pozitif, işini önemseyen, Doğu ve Güneydoğu illerinde konaklayarak çalışabilicek, tecrübeli ya da tecrübesiz ekip arkadaşları aranıyor.
+Konaklama tarafımızdan temin ediliyor.
+İş Türü: Tam zamanlı
+Maaş: 4.250,00TRY - 7.000,00TRY aylık
+Ulaşım/Taşınma İmkanı:
+Van: İşe ulaşım imkanı olması veya işveren tarafından karşılanması durumunda taşınmaya istekli olması gerekir (Zorunlu)
+Seyahat Etme Uygunluğu:
+%100 (Zorunlu)",2022-07-30
