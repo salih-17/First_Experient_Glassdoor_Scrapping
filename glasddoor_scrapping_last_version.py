@@ -35,7 +35,7 @@ def get_jobs(keyword, num_jobs):
        chrome_options.add_argument(option)
     options = webdriver.ChromeOptions() 
     driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
-     for i in range(0,13,4):
+    for i in range(0,13,4):
         locations_sub=locations[i:i+4]
         for country in locations_sub:
             jobs_for_country=[]
@@ -166,6 +166,7 @@ def get_jobs(keyword, num_jobs):
                 jobs_for_countries.append(i) 
         #This line converts the dictionary object into a pandas DataFrame.  
     return pd.DataFrame(jobs_for_countries)
+     
 df=get_jobs('data',3)
 df.to_csv("data_final.csv",index=True) 
      
