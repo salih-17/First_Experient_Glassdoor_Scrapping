@@ -19,6 +19,8 @@ def get_jobs(keyword, num_jobs):
     jobs_for_country = []
     global jobs_for_countries
     jobs_for_countries = []
+    global locations_sub
+    locations_sub= []
     chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
     chrome_options = Options()
     options = [
