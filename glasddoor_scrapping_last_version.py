@@ -94,7 +94,7 @@ def get_jobs(keyword, num_jobs):
                         driver.find_element(By.XPATH,'//div[@class="css-t3xrds e856ufb2"]').click()
                     except NoSuchElementException:
                         pass   
-                    #job_description_full = driver.find_element(By.XPATH,'.//div[@class="jobDescriptionContent desc"]').text
+                    job_description_full = driver.find_element(By.XPATH,'.//div[@class="jobDescriptionContent desc"]').text
                     try:
                         Posted_Date=driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[3]/div[2]/div[2]'.format(job+1)).text
                     except NoSuchElementException:
@@ -118,11 +118,7 @@ def get_jobs(keyword, num_jobs):
                         if (t == False):
                             job_type='N/A'
                     except:
-                        job_type='N/A'
-                        
-                        
-                    
-                    #print("the job is =",job_type)       
+                        job_type='N/A'                                 
                     try:
                         salary_estimate = driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[3]/div[1]/span'.format(job+1)).text
                     except NoSuchElementException:
@@ -153,7 +149,7 @@ def get_jobs(keyword, num_jobs):
                     "jobType" :job_type,
                     "JobURL" : job_url,
                     "ShortDiscribtion" : "N/A",
-                    "fullJobDescribtion":"N/A",
+                    "fullJobDescribtion":job_description_full,
                     "Posted_Date_N":Posted_Data_N,
                     })
                 # Clicking on the "next page" button
@@ -167,6 +163,6 @@ def get_jobs(keyword, num_jobs):
         #This line converts the dictionary object into a pandas DataFrame.  
     return pd.DataFrame(jobs_for_countries)
      
-df=get_jobs('data',3)
+df=get_jobs('data',30)
 df.to_csv("data_final.csv",index=True) 
      
