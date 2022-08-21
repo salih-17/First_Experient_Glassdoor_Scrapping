@@ -166,5 +166,5 @@ def get_jobs(keyword, num_jobs):
     return pd.DataFrame(jobs_for_countries)
      
 df=get_jobs('data',30)
-df.to_csv("data_final.csv",index=True) 
+df.to_excel("data_final.xlsx",index=True) 
      
