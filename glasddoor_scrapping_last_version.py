@@ -98,8 +98,10 @@ def get_jobs(keyword, num_jobs):
                     try:
                         Posted_Date=driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[3]/div[2]/div[2]'.format(job+1)).text
                     except NoSuchElementException:
-                        Posted_Date=driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[2]/div/div[2]'.format(job+1)).text
-                        pass    
+                        try:
+                            Posted_Date=driver.find_element(By.XPATH,'//*[@id="MainCol"]/div[1]/ul/li[{}]/div[2]/div[2]/div/div[2]'.format(job+1)).text
+                        except:
+                            Posted_Date="N/A"   
                     now = datetime.now()
                     #print("yesssssssssssssssssss =",type(Posted_Date))
                     try:
