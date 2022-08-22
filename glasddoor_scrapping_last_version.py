@@ -78,7 +78,6 @@ def get_jobs(keyword, num_jobs):
                                    
                     while not collected_successfully:
                         try:
-                            #time.sleep(10)
                             company_name = driver.find_element(By.XPATH,'//div[@class="css-xuk5ye e1tk4kwz5"]').text
                             location = driver.find_element(By.XPATH,'.//div[@class="css-56kyx5 e1tk4kwz1"]').text
                             job_title = driver.find_element(By.XPATH,'.//div[@class="css-1j389vi e1tk4kwz2"]').text
@@ -88,7 +87,6 @@ def get_jobs(keyword, num_jobs):
                             collected_successfully = True
                         except:
                             collected_successfully = True
-                   # time.sleep(5)
                     #Click on "Show More" for extract full description                        
                     try:
                         driver.find_element(By.XPATH,'//div[@class="css-t3xrds e856ufb2"]').click()
@@ -106,7 +104,6 @@ def get_jobs(keyword, num_jobs):
                         except:
                             Posted_Date="N/A"   
                     now = datetime.now()
-                    #print("yesssssssssssssssssss =",type(Posted_Date))
                     try:
                         exdate= [int(x) for x in re.findall(r'-?\d+\.?\d*',Posted_Date)][0]
                         Posted_Data_N=now.date() - timedelta(days=exdate)
@@ -168,6 +165,6 @@ def get_jobs(keyword, num_jobs):
         #This line converts the dictionary object into a pandas DataFrame.  
     return pd.DataFrame(jobs_for_countries)
      
-df=get_jobs('data',30)
+df=get_jobs('data',100)
 df.to_excel("data_final.xlsx",index=True) 
      
